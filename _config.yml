@@ -26,7 +26,7 @@ github_username:  justdeiz
 markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
-  - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
